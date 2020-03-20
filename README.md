@@ -1,2 +1,2 @@
-# simon-dice
-Juego creado en Javascript
+# Simón-dice
+Juego creado en Javascript a través del curso Fundamentos Js. De Platzi.
